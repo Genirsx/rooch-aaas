@@ -1,3 +1,6 @@
+[中文版](./README.md) | [English Version](./README.en.md)
+
+
 # 项目名称  
 **OneCommand：跨平台自然语言操作代理，连接钱包与社交，释放你的双手**
 
